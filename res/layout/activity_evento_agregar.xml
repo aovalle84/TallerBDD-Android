@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layEvento"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+
+
+
+    <TextView
+        android:id="@+id/txtTitulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/strGeneralAgregar" />
+
+
+    <EditText
+        android:id="@+id/edtNombre"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/strEventoNombre" >
+
+        <requestFocus />
+    </EditText>
+
+
+
+    <EditText
+        android:id="@+id/edtEncargado"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/strEventoEncargado" />
+
+
+
+
+
+    <Button
+        android:id="@+id/btnGuardar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/strGeneralGuardar" />
+
+</LinearLayout>

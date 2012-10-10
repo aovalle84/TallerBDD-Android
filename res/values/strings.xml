@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">TallerBDD</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Eventos</string>
+    <string name="strGeneralAgregar">Agregar</string>
+    <string name="strEventoNombre">Nombre</string>
+    <string name="strEventoEncargado">Encargado</string>
+    <string name="strGeneralGuardar">Guardar</string>
+    <string name="title_activity_agregar">Agregar evento</string>
+
+</resources>

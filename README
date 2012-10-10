@@ -1,0 +1,6 @@
+Ejemplo de base de datos en Android
+Por Alejandro Ovalle @aovalle84
+-------------------------------------
+Este proyecto muestra una forma para insertar y consultar registros en una base de datos SQLite y también incluye código para mostrar datos en un ListView. La App se mostró en el taller "Android avanzado: Bases de datos", impartido en el Foro de Innovación Tecnológica, FIT ( http://fit.galileo.edu/ ) en octubre de 2012.
+
+El estado actual del proyecto es un prototipo funcional.
